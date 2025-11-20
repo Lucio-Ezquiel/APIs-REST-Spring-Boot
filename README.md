@@ -84,7 +84,3 @@ Para acceder a la consola de la base de datos H2, sigue estos pasos:
 ![Delete](media/apiDelete.png)
 *   Consola H2 mostrando los datos persistidos
 ![h2 screenshot](media/H2.png)
-
-## Conclusiones Personales
-
-Este proyecto proporcionó una comprensión integral de la construcción de API RESTful con Spring Boot, centrándose en las mejores prácticas como la arquitectura en capas, la validación de datos y un sólido manejo de errores. La implementación de características como la persistencia con Spring Data JPA y la documentación de la API con Swagger mejoró significativamente mis habilidades en el desarrollo de soluciones de backend escalables y mantenibles. En general, esta experiencia fue invaluable para consolidar mi conocimiento del desarrollo empresarial moderno con Java.
